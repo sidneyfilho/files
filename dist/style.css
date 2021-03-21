@@ -167,6 +167,11 @@ a.article:hover {
   color:
 }
 
+.perfil-name{
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
 
 /* ---------------------------------------------------
     MEDIAQUERIES
