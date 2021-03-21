@@ -1,0 +1,20 @@
+.btn-mercadolibre {
+    color: #fff;
+    -webkit-text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    background-color: #3483FA;
+    background-repeat: repeat-x;
+}
+
+.btn-mercadolibre:hover,
+.btn-mercadolibre:focus,
+.btn-mercadolibre:active,
+.btn-mercadolibre.active,
+.btn-mercadolibre.disabled,
+.btn-mercadolibre[disabled] {
+	color: #fff;
+	background-color: #2968C8 !important;
+}
+.pt-10{
+	padding-top: 10%;
+}
