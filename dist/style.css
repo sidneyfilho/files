@@ -102,7 +102,7 @@ a:focus {
 #sidebar ul li.active > a,
 a[aria-expanded="true"] {
   color: #fff;
-  background: #6d7fcc;
+  background: #70D7BE;
 }
 
 a[data-toggle="collapse"] {
@@ -148,7 +148,7 @@ a.download {
 
 a.article,
 a.article:hover {
-  background: #6d7fcc !important;
+  background: #70D7BE !important;
   color: #fff !important;
 }
 
